@@ -1,4 +1,4 @@
-# FB Group Leaver 🚀
+# FB Group Leave (Bulk) 🚀
 
 > A clean, lightweight Chrome extension to scan and bulk-leave Facebook groups at an adjustable, safe pace.
 
