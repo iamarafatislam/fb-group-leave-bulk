@@ -33,7 +33,9 @@
 - **Vanilla JavaScript & Modern CSS**: Zero heavy frameworks, zero bloated dependencies, ultra-fast performance.
 ---
 ## ⚠️ Disclaimer
+
 This tool is created for personal feed management and educational purposes. It is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Meta Platforms, Inc. or Facebook. Please use safe pacing settings to avoid triggering temporary action blocks on your account.
+
 ---
 ## 📄 License
 Distributed under the **MIT License**. See `LICENSE` for more information.
