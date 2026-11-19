@@ -1,7 +1,11 @@
+# FB Group Leave (Bulk) 🚀
+
 > A clean, lightweight Chrome extension to scan and bulk-leave Facebook groups at a safe, adjustable pace.
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Manifest: V3](https://img.shields.io/badge/Manifest-V3-success.svg)
 ![Status: 100% Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-green.svg)
+
 ---
 ## ✨ Features
 - **⚡ Fast Group Discovery**: Automatically detects your active Facebook login and paginates through all your joined groups.
